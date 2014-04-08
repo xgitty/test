@@ -3,6 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 
+//list
 struct list{
 	char name[20];
 	int number;
